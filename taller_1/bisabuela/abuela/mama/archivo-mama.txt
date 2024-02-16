@@ -1,0 +1,6 @@
+nombre:Olga
+apellido:Pareja
+estatura:1.68
+RH:A+
+fecha de nacimiento:06-6-1977
+

@@ -1,0 +1,5 @@
+nombre: Medila
+apellido: Molina
+estatura: 1.65
+RH: A+
+fecha de nacimiento: 31-7-1926

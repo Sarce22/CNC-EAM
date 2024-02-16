@@ -1,0 +1,5 @@
+nombre:Dario
+apellido: Arce
+estatura:1.80
+RH:A*
+fecha de nacimiento: 27-01-1933

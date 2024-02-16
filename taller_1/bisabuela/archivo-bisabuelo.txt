@@ -1,0 +1,5 @@
+nombre: Cesar 
+apellido:Arce
+estatura:1.78
+RH:A+
+fecha de nacimiento:17-03-1930

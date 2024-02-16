@@ -1,0 +1,5 @@
+nombre: Maria Fernanda
+apellido: Pareja
+estatura:1.67
+RH:A+
+fecha de nacimiento: 17-02-1996

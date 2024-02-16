@@ -1,0 +1,5 @@
+nombre: Rosalba
+apellido: De pareja
+estatura:1.70
+RH: A+
+Fecha de nacimiento: 6-12-1956

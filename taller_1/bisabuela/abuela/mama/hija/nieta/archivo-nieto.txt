@@ -1,0 +1,5 @@
+nombre:Manuel
+apellido:Arce
+estatura: 1.90
+RH:A+
+fecha de nacimiento: 25-09-2010

@@ -1,0 +1,5 @@
+nombre: Mariana
+apellido: Pareja
+estatura:1.70
+RH: A+
+fecha de nacimiento: 25-03-2006

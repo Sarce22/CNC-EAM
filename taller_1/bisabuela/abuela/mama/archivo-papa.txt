@@ -1,0 +1,5 @@
+nombre: Ferney
+apellido: Arce
+estatura:1.84
+RH:A+
+fecha de nacimiento: 17-08-1979
